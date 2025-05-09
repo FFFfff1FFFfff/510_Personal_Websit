@@ -1,10 +1,8 @@
-# 510_Personal_Websit
+# Protofolio
 
-This is a personal portfolio website built using Flask. It showcases my background, experience, and projects.
+This is a personal portfolio website. It showcases my background, experience, and projects.
 
 ## How to Run
-
-1. Clone this repository:
 
 ```bash
 git clone https://github.com/yourgithub/portfolio.git
